@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class PrimeiroPrograma {
     public static void main(String[] args) throws Exception {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite o valor de um número qualquer e te direi se ele é positivo ou negativo!");
